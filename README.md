@@ -4,4 +4,4 @@ gitkills
 
 I have just added a new line.
 
-m000000000001
+comb0000000000001
